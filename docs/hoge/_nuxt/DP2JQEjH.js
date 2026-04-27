@@ -1,1 +1,0 @@
-import{_ as t,B as r,C as n,A as o}from"./B8u1dkO2.js";const s={};function l(a,e){return o(),r("div",null,[...e[0]||(e[0]=[n("h1",null,"こんにちは！Nuxtの世界へようこそ",-1),n("p",null,"READMEではなく、この文字が表示されていれば成功です。",-1)])])}const u=t(s,[["render",l]]);export{u as default};
